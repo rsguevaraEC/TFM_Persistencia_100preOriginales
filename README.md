@@ -1,27 +1,27 @@
-Sistema de Persistencia del TFM ì100preOriginalesî
+Sistema de Persistencia del TFM ‚Äú100preOriginales‚Äù
 
-Este repositorio contiene el desarrollo tÈcnico del sistema de persistencia. Incluye el modelo fÌsico en PostgreSQL, los datasets iniciales, los scripts de ingesta de datos externos y la documentaciÛn necesaria para reproducir el entorno en local.
+Este repositorio contiene el desarrollo t√©cnico del sistema de persistencia. Incluye el modelo f√≠sico en PostgreSQL, los datasets iniciales, los scripts de ingesta de datos externos y la documentaci√≥n necesaria para reproducir el entorno en local.
 
 El objetivo del repositorio es garantizar que cualquier evaluador pueda 
 levantar el sistema sin dependencias externas, validar el modelo y ejecutar las consultas representativas del MVP.
 
-?? Estructura del repositorio
+Estructura del repositorio
 
 proyecto/
-?
-??? docker/                 # PreparaciÛn para futura dockerizaciÛn
+|
+??? docker/                 # Preparaci√≥n para futura dockerizaci√≥n
 ?   ??? init/
 ?
-??? docs/                   # DocumentaciÛn tÈcnica
+??? docs/                   # Documentaci√≥n t√©cnica
 ?   ??? postgres - spo.png  # Diagrama ER exportado desde DBeaver
 ?
 ??? ingestion/              # Scripts de ingesta de datos externos
 ?   ??? api_prices/         # Ingesta desde API (eBay)
 ?   ??? web_scraping/       # Scraping desde PartsGeek
-?   ??? readme ingestion.md # README especÌfico del mÛdulo de ingesta
+?   ??? readme ingestion.md # README espec√≠fico del m√≥dulo de ingesta
 ?
 ??? postgres/               # Capa de persistencia en PostgreSQL
-?   ??? ddl/                # Modelo fÌsico completo (DDL)
+?   ??? ddl/                # Modelo f√≠sico completo (DDL)
 ?   ?   ??? spo_schema.sql
 ?   ??? datos/              # Datasets iniciales (CSV)
 ?   ?   ??? clientes.csv
@@ -36,33 +36,33 @@ Para ejecutar el sistema en local se necesita:
 * PostgreSQL 14+
 * Python 3.10+
 * DBeaver (opcional, para visualizar el modelo)
-* LibrerÌas Python:
+* Librer√≠as Python:
 
 pip install -r requirements.txt
 
 
 ?? 2. Crear la base de datos
 1. Abrir PostgreSQL (psql o PgAdmin).
-2. Crear una base de datos vacÌa:
+2. Crear una base de datos vac√≠a:
 
 	CREATE DATABASE spo_db;
 3. Ejecutar el script DDL:
 
 	psql -d spo_db -f postgres/ddl/spo_schema.sql
 
-Esto crear·:
+Esto crear√°:
 * el esquema spo,
 * todas las tablas del MVP,
 * secuencias,
-* claves primarias y for·neas,
-* Ìndices,
+* claves primarias y for√°neas,
+* √≠ndices,
 * vistas auxiliares.
 
 ?? 3. Cargar datos iniciales (CSV)
 Ejemplo para cargar clientes:
 
 	\copy spo.clientes FROM 'postgres/datos/clientes.csv' CSV HEADER;
-Los dem·s scripts de carga y consultas est·n en:
+Los dem√°s scripts de carga y consultas est√°n en:
 
 postgres/tablas/
 
@@ -84,27 +84,27 @@ bash
 python ingestion/web_scraping/Importa partsgeek.py
 Esto genera:
 * precios_partsgeek.csv,
-* registros listos para inserciÛn en PostgreSQL.
+* registros listos para inserci√≥n en PostgreSQL.
 
 ?? 5. Consultas representativas
-Las consultas del MVP est·n en:
+Las consultas del MVP est√°n en:
 
 postgres/tablas/
 Incluyen:
 * Leads por estado
 * Inventario por concesionario
-* FacturaciÛn detallada por cliente
-* ComparaciÛn de precios externos
+* Facturaci√≥n detallada por cliente
+* Comparaci√≥n de precios externos
 Estas consultas permiten validar el funcionamiento del modelo.
 
-?? 6. VisualizaciÛn del modelo
+?? 6. Visualizaci√≥n del modelo
 El diagrama ER se encuentra en:
 
 docs/postgres - spo.png
 Representa:
 * entidades principales,
 * relaciones,
-* claves primarias y for·neas,
+* claves primarias y for√°neas,
 * vistas auxiliares.
 
 ? 7. Reproducibilidad
