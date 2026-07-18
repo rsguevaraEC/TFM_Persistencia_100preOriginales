@@ -6,8 +6,10 @@ El objetivo del repositorio es garantizar que cualquier evaluador pueda
 levantar el sistema sin dependencias externas, validar el modelo y ejecutar las consultas representativas del MVP.
 
 proyecto/
+  
   docker/                 # Preparación para futura dockerización
-      init/
+  
+	  init/
     docs/                   # Documentación técnica
       postgres - spo.png  # Diagrama ER exportado desde DBeaver
   ingestion/              # Scripts de ingesta de datos externos
