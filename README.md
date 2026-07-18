@@ -5,24 +5,25 @@ Este repositorio contiene el desarrollo ténico del sistema de persistencia. Inc
 El objetivo del repositorio es garantizar que cualquier evaluador pueda 
 levantar el sistema sin dependencias externas, validar el modelo y ejecutar las consultas representativas del MVP.
 
+
 proyecto/
-	docker/                 # Preparación para futura dockerización
-		init/
-	docs/                   # Documentación técnica
-      postgres - spo.png  # Diagrama ER exportado desde DBeaver
-  ingestion/              # Scripts de ingesta de datos externos
-      api_prices/         # Ingesta desde API (eBay)
-      web_scraping/       # Scraping desde PartsGeek
-      readme ingestion.md # README específico del módulo de ingesta
-  postgres/               # Capa de persistencia en PostgreSQL
-      ddl/                # Modelo físico completo (DDL)
-        spo_schema.sql
-      datos/              # Datasets iniciales (CSV)
-        clientes.csv
-      tablas/         # Consultas representativas y scripts auxiliares
-      json/               # Espacio reservado para metadatos JSON
-  requirements.txt        # Dependencias Python para ingesta
-  README.md               # README principal (este archivo)
+├── docker/              # Preparación para futura dockerización
+├── docs/                # Documentación técnica
+│   └── postgres - spo.png  # Diagrama ER exportado desde DBeaver
+├── ingestion/           # Scripts de ingesta de datos externos
+│   ├── api_prices/      # Ingesta desde API (eBay)
+│   ├── web_scraping/    # Scraping desde PartsGeek
+│   └── readme_ingestion.md
+├── postgres/            # Capa de persistencia en PostgreSQL
+│   ├── ddl/             # Modelo físico completo (DDL)
+│   │   └── spo_schema.sql
+│   ├── datos/           # Datasets iniciales (CSV)
+│   │   └── clientes.csv
+│   └── tablas/          # Consultas representativas y scripts auxiliares
+├── json/                # Espacio reservado para metadatos JSON
+├── requirements.txt     # Dependencias Python para ingesta
+└── README.md            # README principal (este archivo)
+
 
 1. Requisitos previos
 Para ejecutar el sistema en local se necesita:
