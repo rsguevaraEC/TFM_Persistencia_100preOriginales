@@ -1,0 +1,18 @@
+# Evitar archivos temporales
+*.pyc
+__pycache__/
+
+# Evitar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Evitar archivos de OneDrive temporales
+*.tmp
+*.lnk
+
+# Evitar credenciales
+.env
+
+# Evitar grandes CSV originales si no son necesarios
+proyecto/ingestion/api_prices/Orgu - Original.csv
+proyecto/ingestion/web_scraping/Orgu - Original.csv
