@@ -4,8 +4,7 @@ Este repositorio contiene el desarrollo ténico del sistema de persistencia. Inc
 
 El objetivo del repositorio es garantizar que cualquier evaluador pueda 
 levantar el sistema sin dependencias externas, validar el modelo y ejecutar las consultas representativas del MVP.
-
-
+```
 proyecto/
 ├── docker/              # Preparación para futura dockerización
 ├── docs/                # Documentación técnica
@@ -23,7 +22,7 @@ proyecto/
 ├── json/                # Espacio reservado para metadatos JSON
 ├── requirements.txt     # Dependencias Python para ingesta
 └── README.md            # README principal (este archivo)
-
+```
 
 1. Requisitos previos
 Para ejecutar el sistema en local se necesita:
