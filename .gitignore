@@ -16,3 +16,7 @@ Thumbs.db
 # Evitar grandes CSV originales si no son necesarios
 proyecto/ingestion/api_prices/Orgu - Original.csv
 proyecto/ingestion/web_scraping/Orgu - Original.csv
+
+# No envia credenciales de eBay y no genera error al subir a github
+.env
+
