@@ -1,4 +1,116 @@
-pandas
-requests
-psycopg2-binary
-beautifulsoup4
+# 📚 **Librerías utilizadas en el proyecto (Python + Jupyter)**
+
+## 🟦 **1. Manipulación y análisis de datos**
+- **pandas**  
+- **numpy**
+
+---
+
+## 🟧 **2. Web Scraping y descarga de PDFs**
+- **requests**  
+- **selenium**  
+- **webdriver_manager**  
+- **beautifulsoup4** *(si lo usaste en alguna parte)*  
+- **pymupdf** *(antes fitz)*  
+- **camelot** *(para extracción de tablas)*  
+- **tabula-py** *(alternativa para extracción de tablas)*
+
+---
+
+## 🟩 **3. Limpieza, normalización y utilidades**
+- **os**  
+- **json**  
+- **re** *(expresiones regulares)*  
+- **glob** *(manejo de archivos)*  
+- **warnings**
+
+---
+
+## 🟪 **4. Persistencia en PostgreSQL**
+- **psycopg2**  
+- **sqlalchemy** *(si lo usaste en algún momento)*
+
+---
+
+## 🟨 **5. Modelado predictivo (Machine Learning)**
+### **Scikit-Learn**
+- **train_test_split**  
+- **RandomForestClassifier**  
+- **RandomForestRegressor**  
+- **classification_report**  
+- **StandardScaler**  
+- **PCA**  
+- **LabelEncoder** *(si lo usaste)*  
+- **metrics** (accuracy, precision, recall, f1)
+
+---
+
+## 🟫 **6. Modelos de series temporales**
+- **prophet** *(antes fbprophet)*
+
+---
+
+## 🟦 **7. Visualización**
+- **matplotlib.pyplot**  
+- **seaborn**  
+- **plotly** *(si lo usaste para gráficos interactivos)*
+
+---
+
+## 🟪 **8. Jupyter Notebook / entorno**
+- **IPython.display**  
+- **tqdm** *(barras de progreso)*
+
+---
+
+# ⭐ **Versión lista para README.md**
+
+```
+## 📚 Librerías utilizadas
+
+### Manipulación de datos
+- pandas
+- numpy
+
+### Web Scraping y descarga de PDFs
+- requests
+- selenium
+- webdriver_manager
+- beautifulsoup4
+- pymupdf
+- camelot
+- tabula-py
+
+### Limpieza y utilidades
+- os
+- json
+- re
+- glob
+- warnings
+
+### Persistencia en PostgreSQL
+- psycopg2
+- sqlalchemy
+
+### Modelado predictivo (Machine Learning)
+- scikit-learn:
+  - train_test_split
+  - RandomForestClassifier
+  - RandomForestRegressor
+  - classification_report
+  - StandardScaler
+  - PCA
+  - metrics
+
+### Series temporales
+- prophet
+
+### Visualización
+- matplotlib
+- seaborn
+- plotly
+
+### Jupyter Notebook
+- IPython.display
+- tqdm
+```
