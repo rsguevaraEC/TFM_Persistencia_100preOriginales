@@ -1,0 +1,1264 @@
+{
+    "data": [
+        {
+            "marca": "CHEVROLET",
+            "fecha": "2019-12-01",
+            "ventas": 2764,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHEVROLET",
+            "fecha": "2019-12-28",
+            "ventas": 39387,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "KIA",
+            "fecha": "2019-12-01",
+            "ventas": 1819,
+            "tipo": "mes"
+        },
+        {
+            "marca": "KIA",
+            "fecha": "2019-12-28",
+            "ventas": 22171,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "HYUNDAI",
+            "fecha": "2019-12-01",
+            "ventas": 665,
+            "tipo": "mes"
+        },
+        {
+            "marca": "HYUNDAI",
+            "fecha": "2019-12-28",
+            "ventas": 9382,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "TOYOTA",
+            "fecha": "2019-12-01",
+            "ventas": 671,
+            "tipo": "mes"
+        },
+        {
+            "marca": "TOYOTA",
+            "fecha": "2019-12-28",
+            "ventas": 7821,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "GREAT WALL",
+            "fecha": "2019-12-01",
+            "ventas": 690,
+            "tipo": "mes"
+        },
+        {
+            "marca": "GREAT WALL",
+            "fecha": "2019-12-28",
+            "ventas": 7305,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JAC",
+            "fecha": "2019-12-01",
+            "ventas": 308,
+            "tipo": "mes"
+        },
+        {
+            "marca": "JAC",
+            "fecha": "2019-12-28",
+            "ventas": 4067,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "RENAULT",
+            "fecha": "2019-12-01",
+            "ventas": 356,
+            "tipo": "mes"
+        },
+        {
+            "marca": "RENAULT",
+            "fecha": "2019-12-28",
+            "ventas": 3366,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "NISSAN",
+            "fecha": "2019-12-01",
+            "ventas": 359,
+            "tipo": "mes"
+        },
+        {
+            "marca": "NISSAN",
+            "fecha": "2019-12-28",
+            "ventas": 4682,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "HINO",
+            "fecha": "2019-12-01",
+            "ventas": 351,
+            "tipo": "mes"
+        },
+        {
+            "marca": "HINO",
+            "fecha": "2019-12-28",
+            "ventas": 4210,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHERY",
+            "fecha": "2019-12-01",
+            "ventas": 194,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHERY",
+            "fecha": "2019-12-28",
+            "ventas": 3483,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "VOLKSWAGEN",
+            "fecha": "2019-12-01",
+            "ventas": 374,
+            "tipo": "mes"
+        },
+        {
+            "marca": "VOLKSWAGEN",
+            "fecha": "2019-12-28",
+            "ventas": 2712,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "MAZDA",
+            "fecha": "2019-12-01",
+            "ventas": 241,
+            "tipo": "mes"
+        },
+        {
+            "marca": "MAZDA",
+            "fecha": "2019-12-28",
+            "ventas": 3026,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "FORD",
+            "fecha": "2019-12-01",
+            "ventas": 213,
+            "tipo": "mes"
+        },
+        {
+            "marca": "FORD",
+            "fecha": "2019-12-28",
+            "ventas": 2688,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SOUEAST",
+            "fecha": "2019-12-01",
+            "ventas": 208,
+            "tipo": "mes"
+        },
+        {
+            "marca": "SOUEAST",
+            "fecha": "2019-12-28",
+            "ventas": 1779,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "MITSUBISHI",
+            "fecha": "2019-12-01",
+            "ventas": 112,
+            "tipo": "mes"
+        },
+        {
+            "marca": "MITSUBISHI",
+            "fecha": "2019-12-28",
+            "ventas": 992,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CITROEN",
+            "fecha": "2019-12-01",
+            "ventas": 159,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CITROEN",
+            "fecha": "2019-12-28",
+            "ventas": 1549,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "PEUGEOT",
+            "fecha": "2019-12-01",
+            "ventas": 139,
+            "tipo": "mes"
+        },
+        {
+            "marca": "PEUGEOT",
+            "fecha": "2019-12-28",
+            "ventas": 1643,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "DFSK",
+            "fecha": "2019-12-01",
+            "ventas": 55,
+            "tipo": "mes"
+        },
+        {
+            "marca": "DFSK",
+            "fecha": "2019-12-28",
+            "ventas": 546,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHANGAN",
+            "fecha": "2019-12-01",
+            "ventas": 90,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHANGAN",
+            "fecha": "2019-12-28",
+            "ventas": 1347,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SHINERAY",
+            "fecha": "2019-12-01",
+            "ventas": 64,
+            "tipo": "mes"
+        },
+        {
+            "marca": "SHINERAY",
+            "fecha": "2019-12-28",
+            "ventas": 762,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "OTRAS",
+            "fecha": "2019-12-01",
+            "ventas": 722,
+            "tipo": "mes"
+        },
+        {
+            "marca": "OTRAS",
+            "fecha": "2019-12-28",
+            "ventas": 9920,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHEVROLET",
+            "fecha": "2020-12-28",
+            "ventas": 17730,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "KIA",
+            "fecha": "2020-12-28",
+            "ventas": 15651,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "HYUNDAI",
+            "fecha": "2020-12-28",
+            "ventas": 6128,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "TOYOTA",
+            "fecha": "2020-12-28",
+            "ventas": 5248,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHERY",
+            "fecha": "2020-12-28",
+            "ventas": 2332,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "GREAT WALL",
+            "fecha": "2020-12-28",
+            "ventas": 4791,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JAC",
+            "fecha": "2020-12-28",
+            "ventas": 3386,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "RENAULT",
+            "fecha": "2020-12-28",
+            "ventas": 3153,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "NISSAN",
+            "fecha": "2020-12-28",
+            "ventas": 3092,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "VOLKSWAGEN",
+            "fecha": "2020-12-28",
+            "ventas": 2125,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SHINERAY",
+            "fecha": "2020-12-28",
+            "ventas": 933,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "HINO",
+            "fecha": "2020-12-28",
+            "ventas": 2552,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "DFSK",
+            "fecha": "2020-12-28",
+            "ventas": 1098,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "MAZDA",
+            "fecha": "2020-12-28",
+            "ventas": 1953,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JETOUR",
+            "fecha": "2020-12-28",
+            "ventas": 234,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "FORD",
+            "fecha": "2020-12-28",
+            "ventas": 1699,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "DONGFENG",
+            "fecha": "2020-12-28",
+            "ventas": 456,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "PEUGEOT",
+            "fecha": "2020-12-28",
+            "ventas": 1191,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SOUEAST",
+            "fecha": "2020-12-28",
+            "ventas": 1291,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHANGAN",
+            "fecha": "2020-12-28",
+            "ventas": 1025,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "OTRAS",
+            "fecha": "2020-12-28",
+            "ventas": 9822,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHEVROLET",
+            "fecha": "2021-12-28",
+            "ventas": 22716,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "KIA",
+            "fecha": "2021-12-28",
+            "ventas": 17762,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "TOYOTA",
+            "fecha": "2021-12-28",
+            "ventas": 7131,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "HYUNDAI",
+            "fecha": "2021-12-28",
+            "ventas": 7089,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHERY",
+            "fecha": "2021-12-28",
+            "ventas": 5196,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "RENAULT",
+            "fecha": "2021-12-28",
+            "ventas": 5173,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "GREAT WALL",
+            "fecha": "2021-12-28",
+            "ventas": 5344,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JAC",
+            "fecha": "2021-12-28",
+            "ventas": 3748,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JETOUR",
+            "fecha": "2021-12-28",
+            "ventas": 2318,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "VOLKSWAGEN",
+            "fecha": "2021-12-28",
+            "ventas": 3553,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SHINERAY",
+            "fecha": "2021-12-28",
+            "ventas": 2025,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "DFSK",
+            "fecha": "2021-12-28",
+            "ventas": 1772,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "MAZDA",
+            "fecha": "2021-12-28",
+            "ventas": 2348,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHANGAN",
+            "fecha": "2021-12-28",
+            "ventas": 1304,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SUZUKI",
+            "fecha": "2021-12-28",
+            "ventas": 772,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "NISSAN",
+            "fecha": "2021-12-28",
+            "ventas": 3719,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "DONGFENG",
+            "fecha": "2021-12-28",
+            "ventas": 1632,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "FORD",
+            "fecha": "2021-12-28",
+            "ventas": 2110,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SOUEAST",
+            "fecha": "2021-12-28",
+            "ventas": 1348,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "MITSUBISHI",
+            "fecha": "2021-12-28",
+            "ventas": 1133,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "OTRAS",
+            "fecha": "2021-12-28",
+            "ventas": 7628,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHEVROLET",
+            "fecha": "2022-12-01",
+            "ventas": 1719,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHEVROLET",
+            "fecha": "2022-12-28",
+            "ventas": 24770,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "KIA",
+            "fecha": "2022-12-01",
+            "ventas": 1570,
+            "tipo": "mes"
+        },
+        {
+            "marca": "KIA",
+            "fecha": "2022-12-28",
+            "ventas": 18331,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "TOYOTA",
+            "fecha": "2022-12-01",
+            "ventas": 1000,
+            "tipo": "mes"
+        },
+        {
+            "marca": "TOYOTA",
+            "fecha": "2022-12-28",
+            "ventas": 10283,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "HYUNDAI",
+            "fecha": "2022-12-01",
+            "ventas": 587,
+            "tipo": "mes"
+        },
+        {
+            "marca": "HYUNDAI",
+            "fecha": "2022-12-28",
+            "ventas": 6512,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHERY",
+            "fecha": "2022-12-01",
+            "ventas": 582,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHERY",
+            "fecha": "2022-12-28",
+            "ventas": 7476,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "RENAULT",
+            "fecha": "2022-12-01",
+            "ventas": 502,
+            "tipo": "mes"
+        },
+        {
+            "marca": "RENAULT",
+            "fecha": "2022-12-28",
+            "ventas": 7354,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JAC",
+            "fecha": "2022-12-01",
+            "ventas": 535,
+            "tipo": "mes"
+        },
+        {
+            "marca": "JAC",
+            "fecha": "2022-12-28",
+            "ventas": 6357,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SHINERAY",
+            "fecha": "2022-12-01",
+            "ventas": 345,
+            "tipo": "mes"
+        },
+        {
+            "marca": "SHINERAY",
+            "fecha": "2022-12-28",
+            "ventas": 4187,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SUZUKI",
+            "fecha": "2022-12-01",
+            "ventas": 185,
+            "tipo": "mes"
+        },
+        {
+            "marca": "SUZUKI",
+            "fecha": "2022-12-28",
+            "ventas": 2067,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "GREAT WALL",
+            "fecha": "2022-12-01",
+            "ventas": 629,
+            "tipo": "mes"
+        },
+        {
+            "marca": "GREAT WALL",
+            "fecha": "2022-12-28",
+            "ventas": 4910,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JETOUR",
+            "fecha": "2022-12-01",
+            "ventas": 366,
+            "tipo": "mes"
+        },
+        {
+            "marca": "JETOUR",
+            "fecha": "2022-12-28",
+            "ventas": 3611,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "DFSK",
+            "fecha": "2022-12-01",
+            "ventas": 288,
+            "tipo": "mes"
+        },
+        {
+            "marca": "DFSK",
+            "fecha": "2022-12-28",
+            "ventas": 3809,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "VOLKSWAGEN",
+            "fecha": "2022-12-01",
+            "ventas": 281,
+            "tipo": "mes"
+        },
+        {
+            "marca": "VOLKSWAGEN",
+            "fecha": "2022-12-28",
+            "ventas": 3509,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "MAZDA",
+            "fecha": "2022-12-01",
+            "ventas": 216,
+            "tipo": "mes"
+        },
+        {
+            "marca": "MAZDA",
+            "fecha": "2022-12-28",
+            "ventas": 2523,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "HINO",
+            "fecha": "2022-12-01",
+            "ventas": 172,
+            "tipo": "mes"
+        },
+        {
+            "marca": "HINO",
+            "fecha": "2022-12-28",
+            "ventas": 2739,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "NISSAN",
+            "fecha": "2022-12-01",
+            "ventas": 156,
+            "tipo": "mes"
+        },
+        {
+            "marca": "NISSAN",
+            "fecha": "2022-12-28",
+            "ventas": 1873,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "FORD",
+            "fecha": "2022-12-01",
+            "ventas": 124,
+            "tipo": "mes"
+        },
+        {
+            "marca": "FORD",
+            "fecha": "2022-12-28",
+            "ventas": 1667,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "DONGFENG",
+            "fecha": "2022-12-01",
+            "ventas": 225,
+            "tipo": "mes"
+        },
+        {
+            "marca": "DONGFENG",
+            "fecha": "2022-12-28",
+            "ventas": 2359,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHANGAN",
+            "fecha": "2022-12-01",
+            "ventas": 204,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHANGAN",
+            "fecha": "2022-12-28",
+            "ventas": 2150,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JMC",
+            "fecha": "2022-12-01",
+            "ventas": 100,
+            "tipo": "mes"
+        },
+        {
+            "marca": "JMC",
+            "fecha": "2022-12-28",
+            "ventas": 859,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "OTRAS",
+            "fecha": "2022-12-01",
+            "ventas": 1614,
+            "tipo": "mes"
+        },
+        {
+            "marca": "OTRAS",
+            "fecha": "2022-12-28",
+            "ventas": 17904,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHEVROLET",
+            "fecha": "2023-12-01",
+            "ventas": 1424,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHEVROLET",
+            "fecha": "2023-12-28",
+            "ventas": 23048,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "KIA",
+            "fecha": "2023-12-01",
+            "ventas": 1230,
+            "tipo": "mes"
+        },
+        {
+            "marca": "KIA",
+            "fecha": "2023-12-28",
+            "ventas": 21887,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "TOYOTA",
+            "fecha": "2023-12-01",
+            "ventas": 656,
+            "tipo": "mes"
+        },
+        {
+            "marca": "TOYOTA",
+            "fecha": "2023-12-28",
+            "ventas": 9548,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "HYUNDAI",
+            "fecha": "2023-12-01",
+            "ventas": 491,
+            "tipo": "mes"
+        },
+        {
+            "marca": "HYUNDAI",
+            "fecha": "2023-12-28",
+            "ventas": 7140,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHERY",
+            "fecha": "2023-12-01",
+            "ventas": 402,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHERY",
+            "fecha": "2023-12-28",
+            "ventas": 6688,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SUZUKI",
+            "fecha": "2023-12-01",
+            "ventas": 405,
+            "tipo": "mes"
+        },
+        {
+            "marca": "SUZUKI",
+            "fecha": "2023-12-28",
+            "ventas": 3993,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "RENAULT",
+            "fecha": "2023-12-01",
+            "ventas": 249,
+            "tipo": "mes"
+        },
+        {
+            "marca": "RENAULT",
+            "fecha": "2023-12-28",
+            "ventas": 4857,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "GWM",
+            "fecha": "2023-12-01",
+            "ventas": 404,
+            "tipo": "mes"
+        },
+        {
+            "marca": "GWM",
+            "fecha": "2023-12-28",
+            "ventas": 3494,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JAC",
+            "fecha": "2023-12-01",
+            "ventas": 303,
+            "tipo": "mes"
+        },
+        {
+            "marca": "JAC",
+            "fecha": "2023-12-28",
+            "ventas": 4520,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "DFSK",
+            "fecha": "2023-12-01",
+            "ventas": 209,
+            "tipo": "mes"
+        },
+        {
+            "marca": "DFSK",
+            "fecha": "2023-12-28",
+            "ventas": 3284,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "VOLKSWAGEN",
+            "fecha": "2023-12-01",
+            "ventas": 195,
+            "tipo": "mes"
+        },
+        {
+            "marca": "VOLKSWAGEN",
+            "fecha": "2023-12-28",
+            "ventas": 3076,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "NISSAN",
+            "fecha": "2023-12-01",
+            "ventas": 162,
+            "tipo": "mes"
+        },
+        {
+            "marca": "NISSAN",
+            "fecha": "2023-12-28",
+            "ventas": 2475,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "HINO",
+            "fecha": "2023-12-01",
+            "ventas": 187,
+            "tipo": "mes"
+        },
+        {
+            "marca": "HINO",
+            "fecha": "2023-12-28",
+            "ventas": 2566,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "MAZDA",
+            "fecha": "2023-12-01",
+            "ventas": 143,
+            "tipo": "mes"
+        },
+        {
+            "marca": "MAZDA",
+            "fecha": "2023-12-28",
+            "ventas": 2914,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SHINERAY",
+            "fecha": "2023-12-01",
+            "ventas": 281,
+            "tipo": "mes"
+        },
+        {
+            "marca": "SHINERAY",
+            "fecha": "2023-12-28",
+            "ventas": 4408,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "DONGFENG",
+            "fecha": "2023-12-01",
+            "ventas": 145,
+            "tipo": "mes"
+        },
+        {
+            "marca": "DONGFENG",
+            "fecha": "2023-12-28",
+            "ventas": 2306,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SINOTRUK",
+            "fecha": "2023-12-01",
+            "ventas": 151,
+            "tipo": "mes"
+        },
+        {
+            "marca": "SINOTRUK",
+            "fecha": "2023-12-28",
+            "ventas": 1423,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JETOUR",
+            "fecha": "2023-12-01",
+            "ventas": 288,
+            "tipo": "mes"
+        },
+        {
+            "marca": "JETOUR",
+            "fecha": "2023-12-28",
+            "ventas": 3345,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "FORD",
+            "fecha": "2023-12-01",
+            "ventas": 192,
+            "tipo": "mes"
+        },
+        {
+            "marca": "FORD",
+            "fecha": "2023-12-28",
+            "ventas": 2345,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHANGAN",
+            "fecha": "2023-12-01",
+            "ventas": 128,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHANGAN",
+            "fecha": "2023-12-28",
+            "ventas": 1893,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "OTRAS",
+            "fecha": "2023-12-01",
+            "ventas": 1408,
+            "tipo": "mes"
+        },
+        {
+            "marca": "OTRAS",
+            "fecha": "2023-12-28",
+            "ventas": 17178,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "KIA",
+            "fecha": "2026-08-01",
+            "ventas": 2527,
+            "tipo": "mes"
+        },
+        {
+            "marca": "KIA",
+            "fecha": "2026-08-28",
+            "ventas": 17382,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHEVROLET",
+            "fecha": "2026-08-01",
+            "ventas": 1626,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHEVROLET",
+            "fecha": "2026-08-28",
+            "ventas": 12571,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "GWM",
+            "fecha": "2026-08-01",
+            "ventas": 688,
+            "tipo": "mes"
+        },
+        {
+            "marca": "GWM",
+            "fecha": "2026-08-28",
+            "ventas": 5783,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "HYUNDAI",
+            "fecha": "2026-08-01",
+            "ventas": 659,
+            "tipo": "mes"
+        },
+        {
+            "marca": "HYUNDAI",
+            "fecha": "2026-08-28",
+            "ventas": 5628,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "TOYOTA",
+            "fecha": "2026-08-01",
+            "ventas": 716,
+            "tipo": "mes"
+        },
+        {
+            "marca": "TOYOTA",
+            "fecha": "2026-08-28",
+            "ventas": 5378,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHERY",
+            "fecha": "2026-08-01",
+            "ventas": 768,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHERY",
+            "fecha": "2026-08-28",
+            "ventas": 5196,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "DONGFENG",
+            "fecha": "2026-08-01",
+            "ventas": 493,
+            "tipo": "mes"
+        },
+        {
+            "marca": "DONGFENG",
+            "fecha": "2026-08-28",
+            "ventas": 3044,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JAC",
+            "fecha": "2026-08-01",
+            "ventas": 514,
+            "tipo": "mes"
+        },
+        {
+            "marca": "JAC",
+            "fecha": "2026-08-28",
+            "ventas": 3784,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "BYD",
+            "fecha": "2026-08-01",
+            "ventas": 850,
+            "tipo": "mes"
+        },
+        {
+            "marca": "BYD",
+            "fecha": "2026-08-28",
+            "ventas": 3588,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SUZUKI",
+            "fecha": "2026-08-01",
+            "ventas": 605,
+            "tipo": "mes"
+        },
+        {
+            "marca": "SUZUKI",
+            "fecha": "2026-08-28",
+            "ventas": 3524,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "SINOTRUK",
+            "fecha": "2026-08-01",
+            "ventas": 463,
+            "tipo": "mes"
+        },
+        {
+            "marca": "SINOTRUK",
+            "fecha": "2026-08-28",
+            "ventas": 3440,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "DFSK",
+            "fecha": "2026-08-01",
+            "ventas": 422,
+            "tipo": "mes"
+        },
+        {
+            "marca": "DFSK",
+            "fecha": "2026-08-28",
+            "ventas": 3076,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "JETOUR",
+            "fecha": "2026-08-01",
+            "ventas": 358,
+            "tipo": "mes"
+        },
+        {
+            "marca": "JETOUR",
+            "fecha": "2026-08-28",
+            "ventas": 2477,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "MAZDA",
+            "fecha": "2026-08-01",
+            "ventas": 286,
+            "tipo": "mes"
+        },
+        {
+            "marca": "MAZDA",
+            "fecha": "2026-08-28",
+            "ventas": 2285,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "VOLKSWAGEN",
+            "fecha": "2026-08-01",
+            "ventas": 288,
+            "tipo": "mes"
+        },
+        {
+            "marca": "VOLKSWAGEN",
+            "fecha": "2026-08-28",
+            "ventas": 1845,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "CHANGAN",
+            "fecha": "2026-08-01",
+            "ventas": 335,
+            "tipo": "mes"
+        },
+        {
+            "marca": "CHANGAN",
+            "fecha": "2026-08-28",
+            "ventas": 1673,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "FOTON",
+            "fecha": "2026-08-01",
+            "ventas": 245,
+            "tipo": "mes"
+        },
+        {
+            "marca": "FOTON",
+            "fecha": "2026-08-28",
+            "ventas": 1883,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "MG",
+            "fecha": "2026-08-01",
+            "ventas": 268,
+            "tipo": "mes"
+        },
+        {
+            "marca": "MG",
+            "fecha": "2026-08-28",
+            "ventas": 1527,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "HINO",
+            "fecha": "2026-08-01",
+            "ventas": 207,
+            "tipo": "mes"
+        },
+        {
+            "marca": "HINO",
+            "fecha": "2026-08-28",
+            "ventas": 1442,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "FORD",
+            "fecha": "2026-08-01",
+            "ventas": 183,
+            "tipo": "mes"
+        },
+        {
+            "marca": "FORD",
+            "fecha": "2026-08-28",
+            "ventas": 1403,
+            "tipo": "acumulado"
+        },
+        {
+            "marca": "OTRAS MARCAS",
+            "fecha": "2026-08-01",
+            "ventas": 2797,
+            "tipo": "mes"
+        },
+        {
+            "marca": "OTRAS MARCAS",
+            "fecha": "2026-08-28",
+            "ventas": 19871,
+            "tipo": "acumulado"
+        }
+    ]
+}

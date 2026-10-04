@@ -64,6 +64,21 @@ CREATE SEQUENCE spo.leads_id_lead_seq
 ALTER SEQUENCE spo.leads_id_lead_seq OWNER TO postgres;
 GRANT ALL ON SEQUENCE spo.leads_id_lead_seq TO postgres;
 
+-- DROP SEQUENCE spo.market_review_id_seq;
+
+CREATE SEQUENCE spo.market_review_id_seq
+	INCREMENT BY 1
+	MINVALUE 1
+	MAXVALUE 2147483647
+	START 1
+	CACHE 1
+	NO CYCLE;
+
+-- Permissions
+
+ALTER SEQUENCE spo.market_review_id_seq OWNER TO postgres;
+GRANT ALL ON SEQUENCE spo.market_review_id_seq TO postgres;
+
 -- DROP SEQUENCE spo.precio_comparativo_id_precio_seq;
 
 CREATE SEQUENCE spo.precio_comparativo_id_precio_seq
@@ -78,6 +93,20 @@ CREATE SEQUENCE spo.precio_comparativo_id_precio_seq
 
 ALTER SEQUENCE spo.precio_comparativo_id_precio_seq OWNER TO postgres;
 GRANT ALL ON SEQUENCE spo.precio_comparativo_id_precio_seq TO postgres;
+-- spo.aeade_ventas_normalizado definition
+
+-- Drop table
+
+-- DROP TABLE spo.aeade_ventas_normalizado;
+
+CREATE TABLE spo.aeade_ventas_normalizado ( marca text NOT NULL, fecha date NOT NULL, ventas int4 NULL, tipo text NULL, CONSTRAINT aeade_ventas_normalizado_pkey PRIMARY KEY (marca, fecha));
+
+-- Permissions
+
+ALTER TABLE spo.aeade_ventas_normalizado OWNER TO postgres;
+GRANT ALL ON TABLE spo.aeade_ventas_normalizado TO postgres;
+
+
 -- spo.clientes definition
 
 -- Drop table
@@ -104,6 +133,20 @@ CREATE TABLE spo.conce ( "Conce_Codigo" bpchar(6) NOT NULL, "Concesionario" varc
 
 ALTER TABLE spo.conce OWNER TO postgres;
 GRANT ALL ON TABLE spo.conce TO postgres;
+
+
+-- spo.market_review definition
+
+-- Drop table
+
+-- DROP TABLE spo.market_review;
+
+CREATE TABLE spo.market_review ( id serial4 NOT NULL, anio int4 NULL, mes int4 NULL, marca text NULL, familia text NULL, modelo text NULL, llavemodelo int4 NULL, segmento text NULL, provincia text NULL, zonas text NULL, segmento_ford text NULL, subsegmento_ford text NULL, segmento_kia text NULL, subsegaa text NULL, subsegbb text NULL, trasmision text NULL, tipo_combustible text NULL, precio numeric(18, 2) NULL, unidades int4 NULL, grupo text NULL, fuente text NULL, qm text NULL, assa text NULL, fecha date NULL, CONSTRAINT market_review_pkey PRIMARY KEY (id));
+
+-- Permissions
+
+ALTER TABLE spo.market_review OWNER TO postgres;
+GRANT ALL ON TABLE spo.market_review TO postgres;
 
 
 -- spo.precio_comparativo definition
@@ -190,6 +233,41 @@ CREATE INDEX idx_leads_estado_fuente ON spo.leads USING btree (lead_estado, lead
 
 ALTER TABLE spo.leads OWNER TO postgres;
 GRANT ALL ON TABLE spo.leads TO postgres;
+
+
+-- spo.aeade_ventas_acumulado_mensual source
+
+CREATE OR REPLACE VIEW spo.aeade_ventas_acumulado_mensual
+AS SELECT marca,
+    EXTRACT(year FROM fecha)::integer AS anio,
+    EXTRACT(month FROM fecha)::integer AS mes,
+    sum(ventas) AS unidades
+   FROM spo.aeade_ventas_normalizado
+  WHERE tipo = 'acumulado'::text
+  GROUP BY marca, (EXTRACT(year FROM fecha)), (EXTRACT(month FROM fecha))
+  ORDER BY marca, (EXTRACT(year FROM fecha)::integer), (EXTRACT(month FROM fecha)::integer);
+
+-- Permissions
+
+ALTER TABLE spo.aeade_ventas_acumulado_mensual OWNER TO postgres;
+GRANT ALL ON TABLE spo.aeade_ventas_acumulado_mensual TO postgres;
+
+
+-- spo.market_review_simplificado source
+
+CREATE OR REPLACE VIEW spo.market_review_simplificado
+AS SELECT anio,
+    mes,
+    marca,
+    familia,
+    segmento,
+    unidades
+   FROM spo.market_review;
+
+-- Permissions
+
+ALTER TABLE spo.market_review_simplificado OWNER TO postgres;
+GRANT ALL ON TABLE spo.market_review_simplificado TO postgres;
 
 
 -- spo.v_leads_clientes source

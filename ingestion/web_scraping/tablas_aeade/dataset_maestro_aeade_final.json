@@ -1,0 +1,1194 @@
+{
+    "2019": [
+        {
+            "Marcas": "CHEVROLET",
+            "dic-19": 2764,
+            "Ene - Dic 2019": 39387,
+            "dic-20": 2046,
+            "Ene - Dic 2020": 17730
+        },
+        {
+            "Marcas": "KIA",
+            "dic-19": 1819,
+            "Ene - Dic 2019": 22171,
+            "dic-20": 1843,
+            "Ene - Dic 2020": 15651
+        },
+        {
+            "Marcas": "HYUNDAI",
+            "dic-19": 665,
+            "Ene - Dic 2019": 9382,
+            "dic-20": 692,
+            "Ene - Dic 2020": 6128
+        },
+        {
+            "Marcas": "TOYOTA",
+            "dic-19": 671,
+            "Ene - Dic 2019": 7821,
+            "dic-20": 479,
+            "Ene - Dic 2020": 5248
+        },
+        {
+            "Marcas": "GREAT WALL",
+            "dic-19": 690,
+            "Ene - Dic 2019": 7305,
+            "dic-20": 496,
+            "Ene - Dic 2020": 4791
+        },
+        {
+            "Marcas": "JAC",
+            "dic-19": 308,
+            "Ene - Dic 2019": 4067,
+            "dic-20": 299,
+            "Ene - Dic 2020": 3386
+        },
+        {
+            "Marcas": "RENAULT",
+            "dic-19": 356,
+            "Ene - Dic 2019": 3366,
+            "dic-20": 434,
+            "Ene - Dic 2020": 3153
+        },
+        {
+            "Marcas": "NISSAN",
+            "dic-19": 359,
+            "Ene - Dic 2019": 4682,
+            "dic-20": 381,
+            "Ene - Dic 2020": 3092
+        },
+        {
+            "Marcas": "HINO",
+            "dic-19": 351,
+            "Ene - Dic 2019": 4210,
+            "dic-20": 245,
+            "Ene - Dic 2020": 2552
+        },
+        {
+            "Marcas": "CHERY",
+            "dic-19": 194,
+            "Ene - Dic 2019": 3483,
+            "dic-20": 309,
+            "Ene - Dic 2020": 2332
+        },
+        {
+            "Marcas": "VOLKSWAGEN",
+            "dic-19": 374,
+            "Ene - Dic 2019": 2712,
+            "dic-20": 236,
+            "Ene - Dic 2020": 2125
+        },
+        {
+            "Marcas": "MAZDA",
+            "dic-19": 241,
+            "Ene - Dic 2019": 3026,
+            "dic-20": 231,
+            "Ene - Dic 2020": 1953
+        },
+        {
+            "Marcas": "FORD",
+            "dic-19": 213,
+            "Ene - Dic 2019": 2688,
+            "dic-20": 203,
+            "Ene - Dic 2020": 1699
+        },
+        {
+            "Marcas": "SOUEAST",
+            "dic-19": 208,
+            "Ene - Dic 2019": 1779,
+            "dic-20": 94,
+            "Ene - Dic 2020": 1291
+        },
+        {
+            "Marcas": "MITSUBISHI",
+            "dic-19": 112,
+            "Ene - Dic 2019": 992,
+            "dic-20": 153,
+            "Ene - Dic 2020": 1196
+        },
+        {
+            "Marcas": "CITROEN",
+            "dic-19": 159,
+            "Ene - Dic 2019": 1549,
+            "dic-20": 91,
+            "Ene - Dic 2020": 1150
+        },
+        {
+            "Marcas": "PEUGEOT",
+            "dic-19": 139,
+            "Ene - Dic 2019": 1643,
+            "dic-20": 110,
+            "Ene - Dic 2020": 1119
+        },
+        {
+            "Marcas": "DFSK",
+            "dic-19": 55,
+            "Ene - Dic 2019": 546,
+            "dic-20": 143,
+            "Ene - Dic 2020": 1098
+        },
+        {
+            "Marcas": "CHANGAN",
+            "dic-19": 90,
+            "Ene - Dic 2019": 1347,
+            "dic-20": 113,
+            "Ene - Dic 2020": 1025
+        },
+        {
+            "Marcas": "SHINERAY",
+            "dic-19": 64,
+            "Ene - Dic 2019": 762,
+            "dic-20": 162,
+            "Ene - Dic 2020": 933
+        },
+        {
+            "Marcas": "OTRAS",
+            "dic-19": 722,
+            "Ene - Dic 2019": 9920,
+            "dic-20": 790,
+            "Ene - Dic 2020": 8166
+        }
+    ],
+    "2020": [
+        {
+            "Marcas": "CHEVROLET",
+            "dic-20": 2046,
+            "Ene - Dic 2020": 17730,
+            "dic-21": 2064,
+            "Ene - Dic 2021": 24547
+        },
+        {
+            "Marcas": "KIA",
+            "dic-20": 1843,
+            "Ene - Dic 2020": 15651,
+            "dic-21": 1455,
+            "Ene - Dic 2021": 17980
+        },
+        {
+            "Marcas": "HYUNDAI",
+            "dic-20": 692,
+            "Ene - Dic 2020": 6128,
+            "dic-21": 517,
+            "Ene - Dic 2021": 7861
+        },
+        {
+            "Marcas": "TOYOTA",
+            "dic-20": 479,
+            "Ene - Dic 2020": 5248,
+            "dic-21": 634,
+            "Ene - Dic 2021": 7131
+        },
+        {
+            "Marcas": "CHERY",
+            "dic-20": 309,
+            "Ene - Dic 2020": 2332,
+            "dic-21": 584,
+            "Ene - Dic 2021": 5585
+        },
+        {
+            "Marcas": "GREAT WALL",
+            "dic-20": 496,
+            "Ene - Dic 2020": 4791,
+            "dic-21": 367,
+            "Ene - Dic 2021": 5344
+        },
+        {
+            "Marcas": "JAC",
+            "dic-20": 299,
+            "Ene - Dic 2020": 3386,
+            "dic-21": 273,
+            "Ene - Dic 2021": 5576
+        },
+        {
+            "Marcas": "RENAULT",
+            "dic-20": 434,
+            "Ene - Dic 2020": 3153,
+            "dic-21": 332,
+            "Ene - Dic 2021": 5176
+        },
+        {
+            "Marcas": "NISSAN",
+            "dic-20": 381,
+            "Ene - Dic 2020": 3092,
+            "dic-21": 212,
+            "Ene - Dic 2021": 1719
+        },
+        {
+            "Marcas": "VOLKSWAGEN",
+            "dic-20": 236,
+            "Ene - Dic 2020": 2125,
+            "dic-21": 277,
+            "Ene - Dic 2021": 3589
+        },
+        {
+            "Marcas": "SHINERAY",
+            "dic-20": 162,
+            "Ene - Dic 2020": 933,
+            "dic-21": 373,
+            "Ene - Dic 2021": 3049
+        },
+        {
+            "Marcas": "HINO",
+            "dic-20": 245,
+            "Ene - Dic 2020": 2552,
+            "dic-21": 228,
+            "Ene - Dic 2021": 2939
+        },
+        {
+            "Marcas": "DFSK",
+            "dic-20": 143,
+            "Ene - Dic 2020": 1098,
+            "dic-21": 24,
+            "Ene - Dic 2021": 2438
+        },
+        {
+            "Marcas": "MAZDA",
+            "dic-20": 231,
+            "Ene - Dic 2020": 1953,
+            "dic-21": 130,
+            "Ene - Dic 2021": 2348
+        },
+        {
+            "Marcas": "JETOUR",
+            "dic-20": 49,
+            "Ene - Dic 2020": 234,
+            "dic-21": 122,
+            "Ene - Dic 2021": 2318
+        },
+        {
+            "Marcas": "FORD",
+            "dic-20": 203,
+            "Ene - Dic 2020": 1699,
+            "dic-21": 151,
+            "Ene - Dic 2021": 2110
+        },
+        {
+            "Marcas": "DONGFENG",
+            "dic-20": 53,
+            "Ene - Dic 2020": 456,
+            "dic-21": 162,
+            "Ene - Dic 2021": 1681
+        },
+        {
+            "Marcas": "PEUGEOT",
+            "dic-20": 110,
+            "Ene - Dic 2020": 1191,
+            "dic-21": 109,
+            "Ene - Dic 2021": 1344
+        },
+        {
+            "Marcas": "SOUEAST",
+            "dic-20": 94,
+            "Ene - Dic 2020": 1291,
+            "dic-21": 98,
+            "Ene - Dic 2021": 1384
+        },
+        {
+            "Marcas": "CHANGAN",
+            "dic-20": 113,
+            "Ene - Dic 2020": 1025,
+            "dic-21": 129,
+            "Ene - Dic 2021": 1294
+        },
+        {
+            "Marcas": "OTRAS",
+            "dic-20": 932,
+            "Ene - Dic 2020": 9822,
+            "dic-21": 1178,
+            "Ene - Dic 2021": 12201
+        }
+    ],
+    "2021": [
+        {
+            "Marcas": "CHEVROLET",
+            "dic-21": 1989,
+            "Ene - Dic 2021": 22716,
+            "dic-22": 1796,
+            "Ene - Dic 2022": 22821
+        },
+        {
+            "Marcas": "KIA",
+            "dic-21": 1448,
+            "Ene - Dic 2021": 17762,
+            "dic-22": 1678,
+            "Ene - Dic 2022": 19882
+        },
+        {
+            "Marcas": "TOYOTA",
+            "dic-21": 631,
+            "Ene - Dic 2021": 7131,
+            "dic-22": 848,
+            "Ene - Dic 2022": 10145
+        },
+        {
+            "Marcas": "HYUNDAI",
+            "dic-21": 451,
+            "Ene - Dic 2021": 7089,
+            "dic-22": 686,
+            "Ene - Dic 2022": 7746
+        },
+        {
+            "Marcas": "CHERY",
+            "dic-21": 575,
+            "Ene - Dic 2021": 5196,
+            "dic-22": 569,
+            "Ene - Dic 2022": 7609
+        },
+        {
+            "Marcas": "RENAULT",
+            "dic-21": 329,
+            "Ene - Dic 2021": 5173,
+            "dic-22": 487,
+            "Ene - Dic 2022": 7373
+        },
+        {
+            "Marcas": "GREAT WALL",
+            "dic-21": 367,
+            "Ene - Dic 2021": 5344,
+            "dic-22": 557,
+            "Ene - Dic 2022": 5096
+        },
+        {
+            "Marcas": "JAC",
+            "dic-21": 224,
+            "Ene - Dic 2021": 3748,
+            "dic-22": 250,
+            "Ene - Dic 2022": 4425
+        },
+        {
+            "Marcas": "JETOUR",
+            "dic-21": 121,
+            "Ene - Dic 2021": 2318,
+            "dic-22": 311,
+            "Ene - Dic 2022": 3816
+        },
+        {
+            "Marcas": "VOLKSWAGEN",
+            "dic-21": 271,
+            "Ene - Dic 2021": 3553,
+            "dic-22": 271,
+            "Ene - Dic 2022": 3470
+        },
+        {
+            "Marcas": "SHINERAY",
+            "dic-21": 298,
+            "Ene - Dic 2021": 2025,
+            "dic-22": 243,
+            "Ene - Dic 2022": 3154
+        },
+        {
+            "Marcas": "DFSK",
+            "dic-21": 182,
+            "Ene - Dic 2021": 1772,
+            "dic-22": 268,
+            "Ene - Dic 2022": 3104
+        },
+        {
+            "Marcas": "MAZDA",
+            "dic-21": 130,
+            "Ene - Dic 2021": 2348,
+            "dic-22": 169,
+            "Ene - Dic 2022": 2493
+        },
+        {
+            "Marcas": "CHANGAN",
+            "dic-21": 129,
+            "Ene - Dic 2021": 1304,
+            "dic-22": 181,
+            "Ene - Dic 2022": 2171
+        },
+        {
+            "Marcas": "SUZUKI",
+            "dic-21": 176,
+            "Ene - Dic 2021": 772,
+            "dic-22": 182,
+            "Ene - Dic 2022": 2064
+        },
+        {
+            "Marcas": "NISSAN",
+            "dic-21": 212,
+            "Ene - Dic 2021": 3719,
+            "dic-22": 125,
+            "Ene - Dic 2022": 1811
+        },
+        {
+            "Marcas": "DONGFENG",
+            "dic-21": 138,
+            "Ene - Dic 2021": 1632,
+            "dic-22": 131,
+            "Ene - Dic 2022": 1670
+        },
+        {
+            "Marcas": "FORD",
+            "dic-21": 151,
+            "Ene - Dic 2021": 2110,
+            "dic-22": 106,
+            "Ene - Dic 2022": 1545
+        },
+        {
+            "Marcas": "SOUEAST",
+            "dic-21": 98,
+            "Ene - Dic 2021": 1348,
+            "dic-22": 100,
+            "Ene - Dic 2022": 1502
+        },
+        {
+            "Marcas": "MITSUBISHI",
+            "dic-21": 94,
+            "Ene - Dic 2021": 1133,
+            "dic-22": 82,
+            "Ene - Dic 2022": 1420
+        },
+        {
+            "Marcas": "OTRAS",
+            "dic-21": 601,
+            "Ene - Dic 2021": 7628,
+            "dic-22": 742,
+            "Ene - Dic 2022": 9862
+        }
+    ],
+    "2022": [
+        {
+            "Marcas": "CHEVROLET",
+            "2022 Diciembre": 1719,
+            "2022 Ene - Dic": 24770,
+            "2023 Diciembre": 1424,
+            "2023 Ene - Dic": 23049
+        },
+        {
+            "Marcas": "KIA",
+            "2022 Diciembre": 1570,
+            "2022 Ene - Dic": 18331,
+            "2023 Diciembre": 1230,
+            "2023 Ene - Dic": 21887
+        },
+        {
+            "Marcas": "TOYOTA",
+            "2022 Diciembre": 1000,
+            "2022 Ene - Dic": 10283,
+            "2023 Diciembre": 656,
+            "2023 Ene - Dic": 9548
+        },
+        {
+            "Marcas": "HYUNDAI",
+            "2022 Diciembre": 587,
+            "2022 Ene - Dic": 6512,
+            "2023 Diciembre": 491,
+            "2023 Ene - Dic": 7140
+        },
+        {
+            "Marcas": "CHERY",
+            "2022 Diciembre": 582,
+            "2022 Ene - Dic": 7476,
+            "2023 Diciembre": 402,
+            "2023 Ene - Dic": 6688
+        },
+        {
+            "Marcas": "RENAULT",
+            "2022 Diciembre": 502,
+            "2022 Ene - Dic": 7354,
+            "2023 Diciembre": 249,
+            "2023 Ene - Dic": 4857
+        },
+        {
+            "Marcas": "JAC",
+            "2022 Diciembre": 535,
+            "2022 Ene - Dic": 6357,
+            "2023 Diciembre": 303,
+            "2023 Ene - Dic": 4520
+        },
+        {
+            "Marcas": "SHINERAY",
+            "2022 Diciembre": 345,
+            "2022 Ene - Dic": 4187,
+            "2023 Diciembre": 281,
+            "2023 Ene - Dic": 4408
+        },
+        {
+            "Marcas": "SUZUKI",
+            "2022 Diciembre": 185,
+            "2022 Ene - Dic": 2067,
+            "2023 Diciembre": 405,
+            "2023 Ene - Dic": 3993
+        },
+        {
+            "Marcas": "GREAT WALL",
+            "2022 Diciembre": 629,
+            "2022 Ene - Dic": 4910,
+            "2023 Diciembre": 404,
+            "2023 Ene - Dic": 3494
+        },
+        {
+            "Marcas": "JETOUR",
+            "2022 Diciembre": 366,
+            "2022 Ene - Dic": 3611,
+            "2023 Diciembre": 288,
+            "2023 Ene - Dic": 3345
+        },
+        {
+            "Marcas": "DFSK",
+            "2022 Diciembre": 288,
+            "2022 Ene - Dic": 3809,
+            "2023 Diciembre": 209,
+            "2023 Ene - Dic": 3284
+        },
+        {
+            "Marcas": "VOLKSWAGEN",
+            "2022 Diciembre": 281,
+            "2022 Ene - Dic": 3509,
+            "2023 Diciembre": 195,
+            "2023 Ene - Dic": 3076
+        },
+        {
+            "Marcas": "MAZDA",
+            "2022 Diciembre": 216,
+            "2022 Ene - Dic": 2523,
+            "2023 Diciembre": 143,
+            "2023 Ene - Dic": 2914
+        },
+        {
+            "Marcas": "HINO",
+            "2022 Diciembre": 172,
+            "2022 Ene - Dic": 2739,
+            "2023 Diciembre": 188,
+            "2023 Ene - Dic": 2572
+        },
+        {
+            "Marcas": "NISSAN",
+            "2022 Diciembre": 156,
+            "2022 Ene - Dic": 1873,
+            "2023 Diciembre": 162,
+            "2023 Ene - Dic": 2475
+        },
+        {
+            "Marcas": "FORD",
+            "2022 Diciembre": 124,
+            "2022 Ene - Dic": 1667,
+            "2023 Diciembre": 192,
+            "2023 Ene - Dic": 2345
+        },
+        {
+            "Marcas": "DONGFENG",
+            "2022 Diciembre": 225,
+            "2022 Ene - Dic": 2359,
+            "2023 Diciembre": 145,
+            "2023 Ene - Dic": 2306
+        },
+        {
+            "Marcas": "CHANGAN",
+            "2022 Diciembre": 204,
+            "2022 Ene - Dic": 2150,
+            "2023 Diciembre": 128,
+            "2023 Ene - Dic": 1893
+        },
+        {
+            "Marcas": "JMC",
+            "2022 Diciembre": 100,
+            "2022 Ene - Dic": 859,
+            "2023 Diciembre": 145,
+            "2023 Ene - Dic": 1544
+        },
+        {
+            "Marcas": "OTRAS",
+            "2022 Diciembre": 1614,
+            "2022 Ene - Dic": 17904,
+            "2023 Diciembre": 1415,
+            "2023 Ene - Dic": 17064
+        }
+    ],
+    "2023": [
+        {
+            "Marcas": "CHEVROLET",
+            "2023 Diciembre": 1424,
+            "2023 Ene - Dic": 23048,
+            "2024 Diciembre": 1431,
+            "2024 Ene - Dic": 19969
+        },
+        {
+            "Marcas": "KIA",
+            "2023 Diciembre": 1230,
+            "2023 Ene - Dic": 21887,
+            "2024 Diciembre": 1254,
+            "2024 Ene - Dic": 16727
+        },
+        {
+            "Marcas": "TOYOTA",
+            "2023 Diciembre": 656,
+            "2023 Ene - Dic": 9548,
+            "2024 Diciembre": 499,
+            "2024 Ene - Dic": 6654
+        },
+        {
+            "Marcas": "HYUNDAI",
+            "2023 Diciembre": 491,
+            "2023 Ene - Dic": 7140,
+            "2024 Diciembre": 301,
+            "2024 Ene - Dic": 5158
+        },
+        {
+            "Marcas": "CHERY",
+            "2023 Diciembre": 402,
+            "2023 Ene - Dic": 6688,
+            "2024 Diciembre": 323,
+            "2024 Ene - Dic": 4718
+        },
+        {
+            "Marcas": "SUZUKI",
+            "2023 Diciembre": 405,
+            "2023 Ene - Dic": 3993,
+            "2024 Diciembre": 337,
+            "2024 Ene - Dic": 4198
+        },
+        {
+            "Marcas": "RENAULT",
+            "2023 Diciembre": 249,
+            "2023 Ene - Dic": 4857,
+            "2024 Diciembre": 266,
+            "2024 Ene - Dic": 3671
+        },
+        {
+            "Marcas": "GWM",
+            "2023 Diciembre": 404,
+            "2023 Ene - Dic": 3494,
+            "2024 Diciembre": 659,
+            "2024 Ene - Dic": 3608
+        },
+        {
+            "Marcas": "JAC",
+            "2023 Diciembre": 303,
+            "2023 Ene - Dic": 4520,
+            "2024 Diciembre": 278,
+            "2024 Ene - Dic": 2969
+        },
+        {
+            "Marcas": "DFSK",
+            "2023 Diciembre": 209,
+            "2023 Ene - Dic": 3284,
+            "2024 Diciembre": 201,
+            "2024 Ene - Dic": 2626
+        },
+        {
+            "Marcas": "VOLKSWAGEN",
+            "2023 Diciembre": 195,
+            "2023 Ene - Dic": 3076,
+            "2024 Diciembre": 124,
+            "2024 Ene - Dic": 2569
+        },
+        {
+            "Marcas": "NISSAN",
+            "2023 Diciembre": 162,
+            "2023 Ene - Dic": 2475,
+            "2024 Diciembre": 176,
+            "2024 Ene - Dic": 2560
+        },
+        {
+            "Marcas": "HINO",
+            "2023 Diciembre": 187,
+            "2023 Ene - Dic": 2566,
+            "2024 Diciembre": 240,
+            "2024 Ene - Dic": 2532
+        },
+        {
+            "Marcas": "MAZDA",
+            "2023 Diciembre": 143,
+            "2023 Ene - Dic": 2914,
+            "2024 Diciembre": 181,
+            "2024 Ene - Dic": 2430
+        },
+        {
+            "Marcas": "SHINERAY",
+            "2023 Diciembre": 281,
+            "2023 Ene - Dic": 4408,
+            "2024 Diciembre": 185,
+            "2024 Ene - Dic": 2318
+        },
+        {
+            "Marcas": "DONGFENG",
+            "2023 Diciembre": 145,
+            "2023 Ene - Dic": 2306,
+            "2024 Diciembre": 158,
+            "2024 Ene - Dic": 2152
+        },
+        {
+            "Marcas": "SINOTRUK",
+            "2023 Diciembre": 151,
+            "2023 Ene - Dic": 1423,
+            "2024 Diciembre": 203,
+            "2024 Ene - Dic": 1984
+        },
+        {
+            "Marcas": "JETOUR",
+            "2023 Diciembre": 288,
+            "2023 Ene - Dic": 3345,
+            "2024 Diciembre": 162,
+            "2024 Ene - Dic": 1825
+        },
+        {
+            "Marcas": "FORD",
+            "2023 Diciembre": 192,
+            "2023 Ene - Dic": 2345,
+            "2024 Diciembre": 120,
+            "2024 Ene - Dic": 1705
+        },
+        {
+            "Marcas": "CHANGAN",
+            "2023 Diciembre": 128,
+            "2023 Ene - Dic": 1893,
+            "2024 Diciembre": 214,
+            "2024 Ene - Dic": 1591
+        },
+        {
+            "Marcas": "OTRAS",
+            "2023 Diciembre": 1408,
+            "2023 Ene - Dic": 17178,
+            "2024 Diciembre": 1389,
+            "2024 Ene - Dic": 16302
+        }
+    ],
+    "2024": [
+        {
+            "Marca": "KIA",
+            "dic-24": 1254,
+            "dic-25": 1527,
+            "Ene-Dic 24": 16727,
+            "Ene-Dic 25": 19141
+        },
+        {
+            "Marca": "CHEVROLET",
+            "dic-24": 1431,
+            "dic-25": 1238,
+            "Ene-Dic 24": 19969,
+            "Ene-Dic 25": 15671
+        },
+        {
+            "Marca": "HYUNDAI",
+            "dic-24": 301,
+            "dic-25": 613,
+            "Ene-Dic 24": 5158,
+            "Ene-Dic 25": 7554
+        },
+        {
+            "Marca": "GWM",
+            "dic-24": 659,
+            "dic-25": 1020,
+            "Ene-Dic 24": 3608,
+            "Ene-Dic 25": 6678
+        },
+        {
+            "Marca": "TOYOTA",
+            "dic-24": 499,
+            "dic-25": 564,
+            "Ene-Dic 24": 6654,
+            "Ene-Dic 25": 6123
+        },
+        {
+            "Marca": "CHERY",
+            "dic-24": 323,
+            "dic-25": 513,
+            "Ene-Dic 24": 4718,
+            "Ene-Dic 25": 5660
+        },
+        {
+            "Marca": "RENAULT",
+            "dic-24": 266,
+            "dic-25": 435,
+            "Ene-Dic 24": 3671,
+            "Ene-Dic 25": 4810
+        },
+        {
+            "Marca": "SUZUKI",
+            "dic-24": 337,
+            "dic-25": 236,
+            "Ene-Dic 24": 4918,
+            "Ene-Dic 25": 4534
+        },
+        {
+            "Marca": "JAC",
+            "dic-24": 278,
+            "dic-25": 504,
+            "Ene-Dic 24": 2969,
+            "Ene-Dic 25": 4047
+        },
+        {
+            "Marca": "DONGFENG",
+            "dic-24": 158,
+            "dic-25": 316,
+            "Ene-Dic 24": 2152,
+            "Ene-Dic 25": 3479
+        },
+        {
+            "Marca": "SINOTRUK",
+            "dic-24": 203,
+            "dic-25": 378,
+            "Ene-Dic 24": 1984,
+            "Ene-Dic 25": 3459
+        },
+        {
+            "Marca": "DFSK",
+            "dic-24": 124,
+            "dic-25": 351,
+            "Ene-Dic 24": 2626,
+            "Ene-Dic 25": 3320
+        },
+        {
+            "Marca": "VOLKSWAGEN",
+            "dic-24": 121,
+            "dic-25": 283,
+            "Ene-Dic 24": 2559,
+            "Ene-Dic 25": 2915
+        },
+        {
+            "Marca": "BYD",
+            "dic-24": 118,
+            "dic-25": 369,
+            "Ene-Dic 24": 2430,
+            "Ene-Dic 25": 2699
+        },
+        {
+            "Marca": "HINO",
+            "dic-24": 240,
+            "dic-25": 339,
+            "Ene-Dic 24": 2532,
+            "Ene-Dic 25": 2699
+        },
+        {
+            "Marca": "MAZDA",
+            "dic-24": 181,
+            "dic-25": 199,
+            "Ene-Dic 24": 2430,
+            "Ene-Dic 25": 2637
+        },
+        {
+            "Marca": "JETOUR",
+            "dic-24": 162,
+            "dic-25": 381,
+            "Ene-Dic 24": 1825,
+            "Ene-Dic 25": 2289
+        },
+        {
+            "Marca": "FOTON",
+            "dic-24": 71,
+            "dic-25": 244,
+            "Ene-Dic 24": 1425,
+            "Ene-Dic 25": 2077
+        },
+        {
+            "Marca": "NISSAN",
+            "dic-24": 176,
+            "dic-25": 213,
+            "Ene-Dic 24": 2560,
+            "Ene-Dic 25": 1769
+        },
+        {
+            "Marca": "SHINERAY",
+            "dic-24": 185,
+            "dic-25": 171,
+            "Ene-Dic 24": 2318,
+            "Ene-Dic 25": 1772
+        },
+        {
+            "Marca": "OTRAS MARCAS",
+            "dic-24": 1534,
+            "dic-25": 2557,
+            "Ene-Dic 24": 17503,
+            "Ene-Dic 25": 20689
+        }
+    ],
+    "2025": [
+        {
+            "Marca": "KIA",
+            "ago-25": 1741,
+            "ago-26": 2527,
+            "Ene-Ago 25": 12577,
+            "Ene-Ago 26": 17382
+        },
+        {
+            "Marca": "CHEVROLET",
+            "ago-25": 1222,
+            "ago-26": 1626,
+            "Ene-Ago 25": 10578,
+            "Ene-Ago 26": 12571
+        },
+        {
+            "Marca": "GWM",
+            "ago-25": 444,
+            "ago-26": 688,
+            "Ene-Ago 25": 3871,
+            "Ene-Ago 26": 5783
+        },
+        {
+            "Marca": "HYUNDAI",
+            "ago-25": 735,
+            "ago-26": 659,
+            "Ene-Ago 25": 4756,
+            "Ene-Ago 26": 5628
+        },
+        {
+            "Marca": "TOYOTA",
+            "ago-25": 510,
+            "ago-26": 716,
+            "Ene-Ago 25": 3984,
+            "Ene-Ago 26": 5378
+        },
+        {
+            "Marca": "CHERY",
+            "ago-25": 498,
+            "ago-26": 768,
+            "Ene-Ago 25": 3535,
+            "Ene-Ago 26": 5196
+        },
+        {
+            "Marca": "DONGFENG",
+            "ago-25": 362,
+            "ago-26": 493,
+            "Ene-Ago 25": 2048,
+            "Ene-Ago 26": 3044
+        },
+        {
+            "Marca": "JAC",
+            "ago-25": 369,
+            "ago-26": 514,
+            "Ene-Ago 25": 2344,
+            "Ene-Ago 26": 3784
+        },
+        {
+            "Marca": "BYD",
+            "ago-25": 247,
+            "ago-26": 850,
+            "Ene-Ago 25": 1353,
+            "Ene-Ago 26": 3588
+        },
+        {
+            "Marca": "SUZUKI",
+            "ago-25": 372,
+            "ago-26": 605,
+            "Ene-Ago 25": 3050,
+            "Ene-Ago 26": 3524
+        },
+        {
+            "Marca": "SINOTRUK",
+            "ago-25": 274,
+            "ago-26": 463,
+            "Ene-Ago 25": 2005,
+            "Ene-Ago 26": 3440
+        },
+        {
+            "Marca": "DFSK",
+            "ago-25": 289,
+            "ago-26": 422,
+            "Ene-Ago 25": 1861,
+            "Ene-Ago 26": 3076
+        },
+        {
+            "Marca": "JETOUR",
+            "ago-25": 189,
+            "ago-26": 358,
+            "Ene-Ago 25": 1185,
+            "Ene-Ago 26": 2477
+        },
+        {
+            "Marca": "MAZDA",
+            "ago-25": 241,
+            "ago-26": 286,
+            "Ene-Ago 25": 1744,
+            "Ene-Ago 26": 2285
+        },
+        {
+            "Marca": "VOLKSWAGEN",
+            "ago-25": 192,
+            "ago-26": 288,
+            "Ene-Ago 25": 1519,
+            "Ene-Ago 26": 1845
+        },
+        {
+            "Marca": "CHANGAN",
+            "ago-25": 108,
+            "ago-26": 335,
+            "Ene-Ago 25": 768,
+            "Ene-Ago 26": 1673
+        },
+        {
+            "Marca": "FOTON",
+            "ago-25": 191,
+            "ago-26": 245,
+            "Ene-Ago 25": 1262,
+            "Ene-Ago 26": 1883
+        },
+        {
+            "Marca": "MG",
+            "ago-25": 97,
+            "ago-26": 268,
+            "Ene-Ago 25": 674,
+            "Ene-Ago 26": 1527
+        },
+        {
+            "Marca": "HINO",
+            "ago-25": 187,
+            "ago-26": 207,
+            "Ene-Ago 25": 1162,
+            "Ene-Ago 26": 1442
+        },
+        {
+            "Marca": "FORD",
+            "ago-25": 124,
+            "ago-26": 183,
+            "Ene-Ago 25": 990,
+            "Ene-Ago 26": 1403
+        },
+        {
+            "Marca": "OTRAS MARCAS",
+            "ago-25": 1869,
+            "ago-26": 2797,
+            "Ene-Ago 25": 14933,
+            "Ene-Ago 26": 19871
+        }
+    ],
+    "2026": [
+        {
+            "Marca": "KIA",
+            "ago-25": 1741,
+            "ago-26": 2527,
+            "Ene-Ago 25": 12577,
+            "Ene-Ago 26": 17382
+        },
+        {
+            "Marca": "CHEVROLET",
+            "ago-25": 1222,
+            "ago-26": 1626,
+            "Ene-Ago 25": 10578,
+            "Ene-Ago 26": 12571
+        },
+        {
+            "Marca": "GWM",
+            "ago-25": 444,
+            "ago-26": 688,
+            "Ene-Ago 25": 3871,
+            "Ene-Ago 26": 5783
+        },
+        {
+            "Marca": "HYUNDAI",
+            "ago-25": 735,
+            "ago-26": 659,
+            "Ene-Ago 25": 4756,
+            "Ene-Ago 26": 5628
+        },
+        {
+            "Marca": "TOYOTA",
+            "ago-25": 510,
+            "ago-26": 716,
+            "Ene-Ago 25": 3984,
+            "Ene-Ago 26": 5378
+        },
+        {
+            "Marca": "CHERY",
+            "ago-25": 498,
+            "ago-26": 768,
+            "Ene-Ago 25": 3535,
+            "Ene-Ago 26": 5196
+        },
+        {
+            "Marca": "DONGFENG",
+            "ago-25": 362,
+            "ago-26": 493,
+            "Ene-Ago 25": 2048,
+            "Ene-Ago 26": 3044
+        },
+        {
+            "Marca": "JAC",
+            "ago-25": 369,
+            "ago-26": 514,
+            "Ene-Ago 25": 2344,
+            "Ene-Ago 26": 3784
+        },
+        {
+            "Marca": "BYD",
+            "ago-25": 247,
+            "ago-26": 850,
+            "Ene-Ago 25": 1353,
+            "Ene-Ago 26": 3588
+        },
+        {
+            "Marca": "SUZUKI",
+            "ago-25": 372,
+            "ago-26": 605,
+            "Ene-Ago 25": 3050,
+            "Ene-Ago 26": 3524
+        },
+        {
+            "Marca": "SINOTRUK",
+            "ago-25": 274,
+            "ago-26": 463,
+            "Ene-Ago 25": 2005,
+            "Ene-Ago 26": 3440
+        },
+        {
+            "Marca": "DFSK",
+            "ago-25": 289,
+            "ago-26": 422,
+            "Ene-Ago 25": 1861,
+            "Ene-Ago 26": 3076
+        },
+        {
+            "Marca": "JETOUR",
+            "ago-25": 189,
+            "ago-26": 358,
+            "Ene-Ago 25": 1185,
+            "Ene-Ago 26": 2477
+        },
+        {
+            "Marca": "MAZDA",
+            "ago-25": 241,
+            "ago-26": 286,
+            "Ene-Ago 25": 1744,
+            "Ene-Ago 26": 2285
+        },
+        {
+            "Marca": "VOLKSWAGEN",
+            "ago-25": 192,
+            "ago-26": 288,
+            "Ene-Ago 25": 1519,
+            "Ene-Ago 26": 1845
+        },
+        {
+            "Marca": "CHANGAN",
+            "ago-25": 108,
+            "ago-26": 335,
+            "Ene-Ago 25": 768,
+            "Ene-Ago 26": 1673
+        },
+        {
+            "Marca": "FOTON",
+            "ago-25": 191,
+            "ago-26": 245,
+            "Ene-Ago 25": 1262,
+            "Ene-Ago 26": 1883
+        },
+        {
+            "Marca": "MG",
+            "ago-25": 97,
+            "ago-26": 268,
+            "Ene-Ago 25": 674,
+            "Ene-Ago 26": 1527
+        },
+        {
+            "Marca": "HINO",
+            "ago-25": 187,
+            "ago-26": 207,
+            "Ene-Ago 25": 1162,
+            "Ene-Ago 26": 1442
+        },
+        {
+            "Marca": "FORD",
+            "ago-25": 124,
+            "ago-26": 183,
+            "Ene-Ago 25": 990,
+            "Ene-Ago 26": 1403
+        },
+        {
+            "Marca": "OTRAS MARCAS",
+            "ago-25": 1869,
+            "ago-26": 2797,
+            "Ene-Ago 25": 14933,
+            "Ene-Ago 26": 19871
+        }
+    ]
+}
