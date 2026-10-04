@@ -8,11 +8,16 @@ levantar el sistema sin dependencias externas, validar el modelo y ejecutar las 
 proyecto/
 ├── docker/              # Preparación para futura dockerización
 ├── docs/                # Documentación técnica
-│   └── postgres - spo.png  # Diagrama ER exportado desde DBeaver
+│   └── postgres-spo.png # Diagrama ER exportado desde DBeaver
 ├── ingestion/           # Scripts de ingesta de datos externos
 │   ├── api_prices/      # Ingesta desde API (eBay)
 │   ├── web_scraping/    # Scraping desde PartsGeek
+|     └── boletines_aeade # Archivos de boletines PDF
+|     └── imagenes_aeade  # Transformación de boletines a imagenes
+|     └── tablas_aeade    # transformación de texto a tablas
+|     └── texto_aeade     # Transformación de imágenes a texto
 │   └── readme_ingestion.md
+├── Jupyter              # Contiene los notebooks de modelado predictivo
 ├── postgres/            # Capa de persistencia en PostgreSQL
 │   ├── ddl/             # Modelo físico completo (DDL)
 │   │   └── spo_schema.sql
