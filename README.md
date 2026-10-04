@@ -240,30 +240,22 @@ TFM_Persistencia_100preOriginales/
 │
 ├── ingestion/
 │   ├── web_scraping/
-│   ├── powerbi/
-│   └── limpieza/
+│   └── api_prices/
+|   readme ingestion.md
 │
-├── database/
-│   ├── scripts_sql/
-│   └── carga/
+├── postgres/
+│   ├── datos/
+│   └── ddl/
+|   └── json/
+|   └── tablas/
 │
-├── notebooks/
+├── Jupyter/
 │   ├── aeade_ingestion.ipynb
 │   ├── aeade_marketreview.ipynb
 │   ├── modelos_predictivos.ipynb
 │   └── pca_cluster.ipynb
 │
-├── models/
-│   ├── randomforest/
-│   ├── prophet/
-│   └── pca/
-│
 ├── docs/
-│   ├── metodologia.md
-│   ├── conclusiones.md
-│   ├── limitaciones.md
-│   └── arquitectura.md
-│
 └── README.md
 ```
 
