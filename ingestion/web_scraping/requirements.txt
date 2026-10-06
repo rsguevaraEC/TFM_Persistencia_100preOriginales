@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+request
+sdmx
+os
+zipfile
+matplotlib.pyplot

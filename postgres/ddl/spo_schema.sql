@@ -49,6 +49,36 @@ CREATE SEQUENCE spo.factura_detalle_id_detalle_seq
 ALTER SEQUENCE spo.factura_detalle_id_detalle_seq OWNER TO postgres;
 GRANT ALL ON SEQUENCE spo.factura_detalle_id_detalle_seq TO postgres;
 
+-- DROP SEQUENCE spo.indicadores_economicos_id_seq;
+
+CREATE SEQUENCE spo.indicadores_economicos_id_seq
+	INCREMENT BY 1
+	MINVALUE 1
+	MAXVALUE 2147483647
+	START 1
+	CACHE 1
+	NO CYCLE;
+
+-- Permissions
+
+ALTER SEQUENCE spo.indicadores_economicos_id_seq OWNER TO postgres;
+GRANT ALL ON SEQUENCE spo.indicadores_economicos_id_seq TO postgres;
+
+-- DROP SEQUENCE spo.latinobarometro_id_seq;
+
+CREATE SEQUENCE spo.latinobarometro_id_seq
+	INCREMENT BY 1
+	MINVALUE 1
+	MAXVALUE 2147483647
+	START 1
+	CACHE 1
+	NO CYCLE;
+
+-- Permissions
+
+ALTER SEQUENCE spo.latinobarometro_id_seq OWNER TO postgres;
+GRANT ALL ON SEQUENCE spo.latinobarometro_id_seq TO postgres;
+
 -- DROP SEQUENCE spo.leads_id_lead_seq;
 
 CREATE SEQUENCE spo.leads_id_lead_seq
@@ -93,6 +123,36 @@ CREATE SEQUENCE spo.precio_comparativo_id_precio_seq
 
 ALTER SEQUENCE spo.precio_comparativo_id_precio_seq OWNER TO postgres;
 GRANT ALL ON SEQUENCE spo.precio_comparativo_id_precio_seq TO postgres;
+
+-- DROP SEQUENCE spo.trm_brasil_id_seq;
+
+CREATE SEQUENCE spo.trm_brasil_id_seq
+	INCREMENT BY 1
+	MINVALUE 1
+	MAXVALUE 2147483647
+	START 1
+	CACHE 1
+	NO CYCLE;
+
+-- Permissions
+
+ALTER SEQUENCE spo.trm_brasil_id_seq OWNER TO postgres;
+GRANT ALL ON SEQUENCE spo.trm_brasil_id_seq TO postgres;
+
+-- DROP SEQUENCE spo.trm_colombia_id_seq;
+
+CREATE SEQUENCE spo.trm_colombia_id_seq
+	INCREMENT BY 1
+	MINVALUE 1
+	MAXVALUE 2147483647
+	START 1
+	CACHE 1
+	NO CYCLE;
+
+-- Permissions
+
+ALTER SEQUENCE spo.trm_colombia_id_seq OWNER TO postgres;
+GRANT ALL ON SEQUENCE spo.trm_colombia_id_seq TO postgres;
 -- spo.aeade_ventas_normalizado definition
 
 -- Drop table
@@ -135,6 +195,34 @@ ALTER TABLE spo.conce OWNER TO postgres;
 GRANT ALL ON TABLE spo.conce TO postgres;
 
 
+-- spo.indicadores_economicos definition
+
+-- Drop table
+
+-- DROP TABLE spo.indicadores_economicos;
+
+CREATE TABLE spo.indicadores_economicos ( id serial4 NOT NULL, pais varchar(50) NOT NULL, fecha date NOT NULL, indicador varchar(100) NOT NULL, valor numeric(30, 10) NULL, fuente varchar(300) NOT NULL, metadata jsonb NULL, fecha_carga timestamp DEFAULT now() NOT NULL, CONSTRAINT indicadores_economicos_pkey PRIMARY KEY (id));
+
+-- Permissions
+
+ALTER TABLE spo.indicadores_economicos OWNER TO postgres;
+GRANT ALL ON TABLE spo.indicadores_economicos TO postgres;
+
+
+-- spo.latinobarometro definition
+
+-- Drop table
+
+-- DROP TABLE spo.latinobarometro;
+
+CREATE TABLE spo.latinobarometro ( id serial4 NOT NULL, pais_sigla varchar(10) NOT NULL, provincia_estado numeric NULL, tamano_ciudad numeric NULL, id_encuesta numeric NULL, situacion_laboral numeric NULL, miedo_desempleo numeric NULL, percepcion_eco_pais numeric NULL, percepcion_eco_hogar numeric NULL, justicia_ingresos numeric NULL, progreso_pais numeric NULL, eco_pais_pasado numeric NULL, eco_pais_futuro numeric NULL, genero numeric NULL, edad numeric NULL, fecha_carga timestamp DEFAULT now() NOT NULL, CONSTRAINT latinobarometro_pkey PRIMARY KEY (id));
+
+-- Permissions
+
+ALTER TABLE spo.latinobarometro OWNER TO postgres;
+GRANT ALL ON TABLE spo.latinobarometro TO postgres;
+
+
 -- spo.market_review definition
 
 -- Drop table
@@ -175,6 +263,34 @@ CREATE TABLE spo.preinvec ( conce_codigo bpchar(6) NULL, inv_cod_fab varchar NUL
 
 ALTER TABLE spo.preinvec OWNER TO postgres;
 GRANT ALL ON TABLE spo.preinvec TO postgres;
+
+
+-- spo.trm_brasil definition
+
+-- Drop table
+
+-- DROP TABLE spo.trm_brasil;
+
+CREATE TABLE spo.trm_brasil ( id serial4 NOT NULL, indicador varchar(100) NOT NULL, "data" date NOT NULL, valor numeric(15, 4) NOT NULL, fecha_carga timestamp DEFAULT now() NOT NULL, CONSTRAINT trm_brasil_pkey PRIMARY KEY (id));
+
+-- Permissions
+
+ALTER TABLE spo.trm_brasil OWNER TO postgres;
+GRANT ALL ON TABLE spo.trm_brasil TO postgres;
+
+
+-- spo.trm_colombia definition
+
+-- Drop table
+
+-- DROP TABLE spo.trm_colombia;
+
+CREATE TABLE spo.trm_colombia ( id serial4 NOT NULL, valor numeric(15, 4) NOT NULL, vigenciadesde timestamp NOT NULL, indicador varchar(50) NOT NULL, CONSTRAINT trm_colombia_pkey PRIMARY KEY (id));
+
+-- Permissions
+
+ALTER TABLE spo.trm_colombia OWNER TO postgres;
+GRANT ALL ON TABLE spo.trm_colombia TO postgres;
 
 
 -- spo.factura_cabecera definition
