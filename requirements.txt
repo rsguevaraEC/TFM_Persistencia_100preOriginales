@@ -45,4 +45,7 @@
 ### Jupyter Notebook
 - IPython.display
 - tqdm
-```
+
+### Tableu
+ reportes/spo.twb
+
