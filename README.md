@@ -254,7 +254,8 @@ TFM_Persistencia_100preOriginales/
 │   ├── aeade_marketreview.ipynb
 │   ├── modelos_predictivos.ipynb
 │   └── pca_cluster.ipynb
-│
+├── Reportes/
+│   ├── spo.twb
 ├── docs/
 └── README.md
 ```
@@ -274,3 +275,6 @@ TFM_Persistencia_100preOriginales/
 ✔ PCA  
 ✔ Market share  
 ✔ Conclusiones y limitaciones  
+
+# 📊  **8. Reportes**
+Dentro de la subcarpeta reportes se encuentra el archivo SPO.TWD, realizado en Tableu, este se conecta al sistema de persistencia SPO, desarrollado en PostreSQL
